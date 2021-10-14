@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Agilizei",
+    "lastName": "Spark",
+    "adress": "Sem endereço",
+    "emailAdress": "test@mail.com",
+    "radioGender": "f",
+    "checks": [
+        "Netflix", 
+        "Dormir"
+    ],
+    "selectCountries": "Dinamarca",
+    "selectYears": "2006",
+    "selectMonths": "Janeiro",
+    "pwd": "Alunos@2021"
+  },
+  {
+    "firstName": "Davison",
+    "lastName": "Alves",
+    "adress": "R: Rio Brilhante 308",
+    "emailAdress": "test@mail.com",
+    "radioGender": "m",
+    "checks": [
+        "Netflix", 
+        "Dormir"
+    ],
+    "selectCountries": "Brasil",
+    "selectYears": "2001",
+    "selectMonths": "Fevereiro",
+    "pwd": "davison@mailinator.com"
+  }
+]
